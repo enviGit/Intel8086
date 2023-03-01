@@ -2337,10 +2337,5 @@ namespace INTEL_8086
                 textBox5.Text = "Niepoprawnie";
             }
         }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
-        }
     }
 }
